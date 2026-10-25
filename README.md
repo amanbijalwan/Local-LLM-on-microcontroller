@@ -16,3 +16,8 @@ Connect an ESP32 microcontroller to a locally running Large Language Model (LLM)
     Develop a Python Flask dashboard.
     Explore AI-assisted robotics and embedded automation. (for later)
 
+
+### Test Version
+    Using Llama 3.2 (1b) model for initial testing.
+    ESP32 will run webserver to access the model on local machine.
+    The output is printed on ESP32 display (connect OLED)
